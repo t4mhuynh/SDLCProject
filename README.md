@@ -1,3 +1,10 @@
+In this project, I  demonstrated mastery of the following competencies:
+
+-The different methodologies and stages involved in the software development life cycle
+-The stages of the software development life cycle within an agile development environment
+-Various software development methodologies and tools
+
+
 Sprint Review and Retrospective
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
